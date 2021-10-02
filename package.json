@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tyoma",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,7 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"author": "Tyoma",
 		"url": "https://github.com/ArtemCS50/course.git"
 	}
 }
