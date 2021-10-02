@@ -9,6 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"author": "Tyoma",
+		"url": "https://github.com/ArtemCS50/course.git"
 	}
 }
